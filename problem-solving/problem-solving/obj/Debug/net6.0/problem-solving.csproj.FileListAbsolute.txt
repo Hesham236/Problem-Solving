@@ -1,0 +1,15 @@
+D:\Codes\Problem-Solving\problem-solving\problem-solving\bin\Debug\net6.0\problem-solving.exe
+D:\Codes\Problem-Solving\problem-solving\problem-solving\bin\Debug\net6.0\problem-solving.deps.json
+D:\Codes\Problem-Solving\problem-solving\problem-solving\bin\Debug\net6.0\problem-solving.runtimeconfig.json
+D:\Codes\Problem-Solving\problem-solving\problem-solving\bin\Debug\net6.0\problem-solving.dll
+D:\Codes\Problem-Solving\problem-solving\problem-solving\bin\Debug\net6.0\problem-solving.pdb
+D:\Codes\Problem-Solving\problem-solving\problem-solving\obj\Debug\net6.0\problem-solving.csproj.AssemblyReference.cache
+D:\Codes\Problem-Solving\problem-solving\problem-solving\obj\Debug\net6.0\problem-solving.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\Problem-Solving\problem-solving\problem-solving\obj\Debug\net6.0\problem-solving.AssemblyInfoInputs.cache
+D:\Codes\Problem-Solving\problem-solving\problem-solving\obj\Debug\net6.0\problem-solving.AssemblyInfo.cs
+D:\Codes\Problem-Solving\problem-solving\problem-solving\obj\Debug\net6.0\problem-solving.csproj.CoreCompileInputs.cache
+D:\Codes\Problem-Solving\problem-solving\problem-solving\obj\Debug\net6.0\problem-solving.dll
+D:\Codes\Problem-Solving\problem-solving\problem-solving\obj\Debug\net6.0\refint\problem-solving.dll
+D:\Codes\Problem-Solving\problem-solving\problem-solving\obj\Debug\net6.0\problem-solving.pdb
+D:\Codes\Problem-Solving\problem-solving\problem-solving\obj\Debug\net6.0\problem-solving.genruntimeconfig.cache
+D:\Codes\Problem-Solving\problem-solving\problem-solving\obj\Debug\net6.0\ref\problem-solving.dll
