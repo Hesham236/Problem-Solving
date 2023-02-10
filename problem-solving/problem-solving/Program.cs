@@ -20,15 +20,15 @@ namespace Declaring_Method
 
 
             /////////////////search insert position
-            int[] nums = { -1, 0, 3, 5, 9, 12 };
-            int target = 9;
+            int[] nums = { 1,3 };
+            int target = 2;
             var SS = new SearchInsertPositionClass();
             int x = SS.InsertSearchPosition(nums, target);
 
 
 
 
-
+            Console.WriteLine(nums[nums.Length/2]);
             Console.WriteLine(x);
         }
 

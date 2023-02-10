@@ -10,7 +10,29 @@ namespace problem_solving
     {
         public int InsertSearchPosition(int[] nums , int target)
         {
-
+            int mid = nums[(nums.Length / 2)];
+            if (target > nums[nums.Length-1]) return nums.Length + 1 ;
+            if (target < nums[0]) return 0;
+            if (mid == target) return nums.Length / 2;
+            else if (mid > target)
+            {
+                for (int i = 0; i < (nums.Length / 2); i++)
+                {
+                    if (nums[i] == target) return i;
+                    if (nums[i] > target) return i;
+                }
+                return -1;
+            }
+            else if (mid < target)
+            {
+                for (int i = (nums.Length / 2); i < nums.Length; i++)
+                {
+                    if (nums[i] == target) return i;
+                    if (nums[i] > target) return i;
+                }
+                return -1;
+            }
+            else return -1;
         }
     }
 }
